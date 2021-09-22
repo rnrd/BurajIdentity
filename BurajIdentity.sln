@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurajIdentity.Infrastructure", "BurajIdentity.Infrastructure\BurajIdentity.Infrastructure.csproj", "{820B1F82-9ECC-48DA-BBAB-068A8AE2C00D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurajIdentity.Server", "BurajIdentity.Server\BurajIdentity.Server.csproj", "{DD6B4061-0625-473E-AF68-5DDE82A16A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820B1F82-9ECC-48DA-BBAB-068A8AE2C00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820B1F82-9ECC-48DA-BBAB-068A8AE2C00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820B1F82-9ECC-48DA-BBAB-068A8AE2C00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820B1F82-9ECC-48DA-BBAB-068A8AE2C00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6B4061-0625-473E-AF68-5DDE82A16A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6B4061-0625-473E-AF68-5DDE82A16A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6B4061-0625-473E-AF68-5DDE82A16A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6B4061-0625-473E-AF68-5DDE82A16A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98469BC-10FD-408F-A7B9-5D88C2F07406}
+	EndGlobalSection
+EndGlobal
